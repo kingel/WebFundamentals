@@ -39,7 +39,7 @@ De gebeurtenis `load` (ook bekend als `onload`) wordt geblokkeerd bij de afbeeld
 
 ## JavaScript en CSS toevoegen aan de mix
 
-Onze pagina `Hallo Wereld-ervaring` ziet er misschien eenvoudig uit aan de oppervlakte, maar voordat de pagina wordt weergeven, worden er een heleboel stappen uitgevoerd die u niet kunt zien. In de praktijk hebben we ook meer nodig dan alleen de HTML: het is waarschijnlijk dat we een CCS-stijldocument en één of meer scripts hebben om enige interactie aan onze pagina toe te voegen. Laten beide aan de mix toevoegen en kijken wat er gebeurt:
+Onze pagina `Hallo Wereld-ervaring` ziet er misschien eenvoudig uit aan de oppervlakte, maar voordat de pagina wordt weergeven, worden er een heleboel stappen uitgevoerd die u niet kunt zien. In de praktijk hebben we ook meer nodig dan alleen de HTML: het is waarschijnlijk dat we een CSS-stijldocument en één of meer scripts hebben om enige interactie aan onze pagina toe te voegen. Laten beide aan de mix toevoegen en kijken wat er gebeurt:
 
 {% include_code src=_code/measure_crp_timing.html snippet=full %}
 
